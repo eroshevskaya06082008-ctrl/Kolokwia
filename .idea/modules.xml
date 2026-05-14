@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Kolokwia.iml" filepath="$PROJECT_DIR$/Kolokwia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kolokwium3_2023/Kolokwium3_2023.iml" filepath="$PROJECT_DIR$/Kolokwium3_2023/Kolokwium3_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kolokwium4/Kolokwium4.iml" filepath="$PROJECT_DIR$/Kolokwium4/Kolokwium4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Powtorzenie/Powtorzenie.iml" filepath="$PROJECT_DIR$/Powtorzenie/Powtorzenie.iml" />
       <module fileurl="file://$PROJECT_DIR$/kolokwium2/kolokwium2.iml" filepath="$PROJECT_DIR$/kolokwium2/kolokwium2.iml" />
     </modules>
   </component>
